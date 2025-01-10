@@ -1,0 +1,8 @@
+exo00.sh
+exo01.sh
+exo02.sh
+exo03.sh
+exo04.sh
+mon_dossier
+sortie.txt
+Ceci est une redirection 

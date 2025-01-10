@@ -1,0 +1,5 @@
+Aujourd'hui est un beau jour.
+J'apprends le bash.
+le bash est très puissant .
+
+
